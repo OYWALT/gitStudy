@@ -1,1 +1,4 @@
 在本地库rootA中对file1文件进行修改
+
+
+在本地库rootA中对file1进行修改，并且在rootB中对file1进修修改，rootB先git push
